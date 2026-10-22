@@ -1,5 +1,8 @@
 
-<h1 align="center">Hi, I'm George Gamal 👋</h1>
+<h1 align="center">
+  Hi, I'm George Gamal
+  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" alt="Waving hand" />
+</h1>
 
 <h3 align="center">Computer Science Student | Aspiring Software Engineer</h3>
 
@@ -50,8 +53,14 @@ A console-based rental management application demonstrating object-oriented prog
 
 ## Connect With Me
 
-<p>
+<p align="left">
   <a href="https://linkedin.com/in/george-gamal-cs">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://codeforces.com/profile/George_Gamal">
+    <img src="https://img.shields.io/badge/Codeforces-Profile-1F8ACB?logo=codeforces&logoColor=white" alt="Codeforces" />
+  </a>
+  <a href="https://leetcode.com/u/FTxMj1vqZz/">
+    <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?logo=leetcode&logoColor=black" alt="LeetCode" />
   </a>
 </p>
